@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NG2tnf5puwAeibShbGt4NcuHHQ3/IpLMbIq2UewVAkVmA3W8L5uhbcGIl3heaCeQNo1RpR4+D9pzT/ecipUiYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My PC\\source\\repos\\Passed\\MonthPrinter\\MonthPrinter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
