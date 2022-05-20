@@ -6,17 +6,17 @@ namespace MultiplicationTable2._0
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            int a = int.Parse(Console.ReadLine());
+            int multiplicator = int.Parse(Console.ReadLine());
+            int number = int.Parse(Console.ReadLine());
 
-            if (a > 10)
+            if (number > 10)
             {
-                Console.WriteLine($"{n} X {a} = {n * a}");
+                Console.WriteLine($"{multiplicator} X {number} = {multiplicator * number}");
                 return;
             }
-            for (int i = a; i < 11; i++)
+            for (int i = number; i < 11; i++)
             {
-                Console.WriteLine($"{n} X {i} = {n * i}");
+                Console.WriteLine($"{multiplicator} X {i} = {multiplicator * i}");
             }
         }
     }
