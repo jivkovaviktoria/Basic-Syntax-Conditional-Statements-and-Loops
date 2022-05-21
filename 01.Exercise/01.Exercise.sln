@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Ages", "01.Exercise\01.Ages.csproj", "{0D3BA0E5-3B92-4CF1-A3E8-AC3DDC5B024F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Ages", "01.Exercise\01.Ages.csproj", "{0D3BA0E5-3B92-4CF1-A3E8-AC3DDC5B024F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Division", "02.Division\02.Division.csproj", "{7F3BA871-4FA7-4EEC-B619-198C388C4725}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Login", "Login\03.Login.csproj", "{5DA7FBF6-533E-43C3-AA0B-135E83C865AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Login", "Login\03.Login.csproj", "{5DA7FBF6-533E-43C3-AA0B-135E83C865AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintAndSum", "PrintAndSum\04.PrintAndSum.csproj", "{1C2AD1AA-D8E4-484E-A1A6-36865E766B82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintAndSum", "PrintAndSum\04.PrintAndSum.csproj", "{1C2AD1AA-D8E4-484E-A1A6-36865E766B82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StrongNumber", "StrongNumber\05.StrongNumber.csproj", "{F517D39A-6097-4032-8174-065EC2EB6381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.StrongNumber", "StrongNumber\05.StrongNumber.csproj", "{F517D39A-6097-4032-8174-065EC2EB6381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Vacation", "Vacation\06.Vacation.csproj", "{16055EAD-7D33-4FDE-931B-3CB548FC78EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Vacation", "Vacation\06.Vacation.csproj", "{16055EAD-7D33-4FDE-931B-3CB548FC78EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfTheLastDigit", "EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit.csproj", "{215FAF21-C7BC-4A10-A524-7C1D72195667}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
