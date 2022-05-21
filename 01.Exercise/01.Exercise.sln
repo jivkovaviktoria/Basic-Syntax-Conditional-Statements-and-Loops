@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StrongNumber", "StrongNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Vacation", "Vacation\06.Vacation.csproj", "{16055EAD-7D33-4FDE-931B-3CB548FC78EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{16055EAD-7D33-4FDE-931B-3CB548FC78EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16055EAD-7D33-4FDE-931B-3CB548FC78EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16055EAD-7D33-4FDE-931B-3CB548FC78EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
