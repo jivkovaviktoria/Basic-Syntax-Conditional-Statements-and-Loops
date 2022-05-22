@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Vacation", "Vacation\06.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{DDB7A8A0-FED7-47FC-A16C-CBD442CCDC99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfTheLastDigit", "EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit.csproj", "{215FAF21-C7BC-4A10-A524-7C1D72195667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnglishNameOfTheLastDigit", "EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit.csproj", "{215FAF21-C7BC-4A10-A524-7C1D72195667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{215FAF21-C7BC-4A10-A524-7C1D72195667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
