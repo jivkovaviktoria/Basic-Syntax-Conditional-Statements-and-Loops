@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoundsToDollars", "PoundsTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumOfNumbers", "ExactSumOfNumbers\ExactSumOfNumbers.csproj", "{26051E87-D051-40F1-A942-98F19F3F6F14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiestToMinutes", "CenturiestToMinutes\CenturiestToMinutes.csproj", "{09EECA4A-6D49-4D6E-BD9D-301ED3D0A23F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{26051E87-D051-40F1-A942-98F19F3F6F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26051E87-D051-40F1-A942-98F19F3F6F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26051E87-D051-40F1-A942-98F19F3F6F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EECA4A-6D49-4D6E-BD9D-301ED3D0A23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EECA4A-6D49-4D6E-BD9D-301ED3D0A23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EECA4A-6D49-4D6E-BD9D-301ED3D0A23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EECA4A-6D49-4D6E-BD9D-301ED3D0A23F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
