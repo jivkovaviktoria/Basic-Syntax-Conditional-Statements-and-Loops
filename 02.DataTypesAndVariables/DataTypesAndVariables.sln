@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExactSumOfNumbers", "ExactS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenturiestToMinutes", "CenturiestToMinutes\CenturiestToMinutes.csproj", "{09EECA4A-6D49-4D6E-BD9D-301ED3D0A23F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatNames", "ConcatNames\ConcatNames.csproj", "{5DF594DD-38C6-4844-88E5-92832B204CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatNames", "ConcatNames\ConcatNames.csproj", "{5DF594DD-38C6-4844-88E5-92832B204CD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownInfo", "TownInfo\TownInfo.csproj", "{74BF5086-BA7E-42CE-9F23-A7DE02F31EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TownInfo", "TownInfo\TownInfo.csproj", "{74BF5086-BA7E-42CE-9F23-A7DE02F31EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharsToString", "CharsToString\CharsToString.csproj", "{7D1E0B5C-744A-421A-8EB8-BA51FBAE1C1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{74BF5086-BA7E-42CE-9F23-A7DE02F31EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74BF5086-BA7E-42CE-9F23-A7DE02F31EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74BF5086-BA7E-42CE-9F23-A7DE02F31EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1E0B5C-744A-421A-8EB8-BA51FBAE1C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1E0B5C-744A-421A-8EB8-BA51FBAE1C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1E0B5C-744A-421A-8EB8-BA51FBAE1C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1E0B5C-744A-421A-8EB8-BA51FBAE1C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
