@@ -13,10 +13,10 @@ namespace PadawanEquipment
             double robesPrice = double.Parse(Console.ReadLine());
             double beltsPrice = double.Parse(Console.ReadLine());
 
-            double lightsabersTotal = Math.Ceiling((students + students * 0.10)*lightsabersPrice);
-            int freeRobes = students / 6;
-            double robesTotal = (students * robesPrice) - (freeRobes*robesPrice);
-            double beltsTotal = students*beltsPrice;
+            double lightsabersTotal = Math.Ceiling(students + students * 0.10) * lightsabersPrice;
+            int freeBelts= students / 6;
+            double beltsTotal = (students * beltsPrice) - (freeBelts*beltsPrice);
+            double robesTotal = students*robesPrice;
 
             double equipmentTotal = lightsabersTotal + robesTotal + beltsTotal;
 
