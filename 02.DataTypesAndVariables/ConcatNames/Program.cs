@@ -12,7 +12,7 @@ namespace ConcatNames
 
             string delimiter = Console.ReadLine();
 
-            Console.WriteLine($"{firstName} {delimiter} {secondtName}");
+            Console.WriteLine($"{firstName}{delimiter}{secondtName}");
         }
     }
 }
