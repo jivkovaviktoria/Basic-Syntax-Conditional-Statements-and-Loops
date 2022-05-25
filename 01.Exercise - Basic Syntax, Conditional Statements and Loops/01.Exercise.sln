@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "VendingMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnglishNameOfTheLastDigit", "EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit.csproj", "{215FAF21-C7BC-4A10-A524-7C1D72195667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{C24EB318-A8A1-4AC5-B5DA-94276D1CE9BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingStore", "GamingStore\GamingStore.csproj", "{E4DBD897-3A92-40A8-AA19-D8A94C3ACB9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamingStore", "GamingStore\GamingStore.csproj", "{E4DBD897-3A92-40A8-AA19-D8A94C3ACB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadawanEquipment", "PadawanEquipment\PadawanEquipment.csproj", "{9139A595-5030-4525-BA2F-4DF660403C27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{E4DBD897-3A92-40A8-AA19-D8A94C3ACB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4DBD897-3A92-40A8-AA19-D8A94C3ACB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4DBD897-3A92-40A8-AA19-D8A94C3ACB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9139A595-5030-4525-BA2F-4DF660403C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9139A595-5030-4525-BA2F-4DF660403C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9139A595-5030-4525-BA2F-4DF660403C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9139A595-5030-4525-BA2F-4DF660403C27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
