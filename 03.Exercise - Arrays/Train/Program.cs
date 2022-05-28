@@ -22,6 +22,7 @@ namespace Train
             }
 
             int sum = passengers.Sum();
+            Console.WriteLine();
             Console.WriteLine(sum);
             
         }
