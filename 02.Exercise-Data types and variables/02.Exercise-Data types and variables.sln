@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintPartOfASCIItable", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriplesOfLatinLetters", "TriplesOfLatinLetters\TriplesOfLatinLetters.csproj", "{0A292E96-2459-410A-9716-351D3E08C39C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{7A857913-9397-4783-AD43-A32D939D8254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{7A857913-9397-4783-AD43-A32D939D8254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerKegs", "BeerKegs\BeerKegs.csproj", "{7148C6B0-E80A-48BE-A7D9-7401CF28E319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeerKegs", "BeerKegs\BeerKegs.csproj", "{7148C6B0-E80A-48BE-A7D9-7401CF28E319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceMustFlow", "SpiceMustFlow\SpiceMustFlow.csproj", "{CD8E3D33-07DA-43EC-A0FF-FF078106A754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{7148C6B0-E80A-48BE-A7D9-7401CF28E319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7148C6B0-E80A-48BE-A7D9-7401CF28E319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7148C6B0-E80A-48BE-A7D9-7401CF28E319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8E3D33-07DA-43EC-A0FF-FF078106A754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8E3D33-07DA-43EC-A0FF-FF078106A754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8E3D33-07DA-43EC-A0FF-FF078106A754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8E3D33-07DA-43EC-A0FF-FF078106A754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
