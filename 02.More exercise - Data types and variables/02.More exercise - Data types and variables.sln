@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromLeftToTheRight", "FromL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptingMessage", "DecryptingMessage\DecryptingMessage.csproj", "{2C7235BF-58DC-4E43-9258-AD28B1B79D30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring-PrimeChecker", "Refactoring-PrimeChecker\Refactoring-PrimeChecker.csproj", "{A8726D74-4E71-4372-9907-18AF49FBE6A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8726D74-4E71-4372-9907-18AF49FBE6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8726D74-4E71-4372-9907-18AF49FBE6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8726D74-4E71-4372-9907-18AF49FBE6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8726D74-4E71-4372-9907-18AF49FBE6A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
