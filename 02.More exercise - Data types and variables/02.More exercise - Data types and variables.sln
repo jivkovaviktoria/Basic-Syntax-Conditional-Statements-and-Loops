@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeFinder", "DataTypeF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromLeftToTheRight", "FromLeftToTheRight\FromLeftToTheRight.csproj", "{E3205A14-4E71-4BFA-89DA-B3A59F481DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptingMessage", "DecryptingMessage\DecryptingMessage.csproj", "{2C7235BF-58DC-4E43-9258-AD28B1B79D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E3205A14-4E71-4BFA-89DA-B3A59F481DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3205A14-4E71-4BFA-89DA-B3A59F481DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3205A14-4E71-4BFA-89DA-B3A59F481DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7235BF-58DC-4E43-9258-AD28B1B79D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
