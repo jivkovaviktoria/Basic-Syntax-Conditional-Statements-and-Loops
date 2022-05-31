@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring-PrimeChecker", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBrackets", "BalancedBrackets\BalancedBrackets.csproj", "{C8E18AB3-4FD8-4AE7-B36A-F640B93F7339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingEquality", "FloatingEquality\FloatingEquality.csproj", "{6CCA9079-BF47-4362-8EC3-D590AF2A6AC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C8E18AB3-4FD8-4AE7-B36A-F640B93F7339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E18AB3-4FD8-4AE7-B36A-F640B93F7339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E18AB3-4FD8-4AE7-B36A-F640B93F7339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCA9079-BF47-4362-8EC3-D590AF2A6AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCA9079-BF47-4362-8EC3-D590AF2A6AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCA9079-BF47-4362-8EC3-D590AF2A6AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCA9079-BF47-4362-8EC3-D590AF2A6AC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
