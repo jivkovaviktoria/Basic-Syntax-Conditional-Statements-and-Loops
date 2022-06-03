@@ -8,7 +8,7 @@ namespace EqualSums
         static void Main(string[] args)
         {
             int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
-
+            bool isEqual = false;
 
             for (int i = 0; i < numbers.Length; i++)
             {
@@ -26,11 +26,14 @@ namespace EqualSums
 
                 if (leftSum == rightSum)
                 {
+                    isEqual = true;
                     Console.WriteLine(i);
+                    break;
                 }
-
-
             }
+            if (isEqual == false)
+                Console.WriteLine("no");
+
         }
     }
 }
