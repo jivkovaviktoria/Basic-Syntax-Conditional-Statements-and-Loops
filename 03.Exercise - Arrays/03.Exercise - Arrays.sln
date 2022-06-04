@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaminoFactory", "KaminoFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicSum", "MagicSum\MagicSum.csproj", "{D6F44F7E-B390-4463-B084-890184B38213}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualNumbers", "MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers.csproj", "{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZadArrays", "ZigZadArrays\ZigZadArrays.csproj", "{6759569E-FB97-412A-8668-B4F9063803F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{D6F44F7E-B390-4463-B084-890184B38213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6F44F7E-B390-4463-B084-890184B38213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6F44F7E-B390-4463-B084-890184B38213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6759569E-FB97-412A-8668-B4F9063803F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6759569E-FB97-412A-8668-B4F9063803F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6759569E-FB97-412A-8668-B4F9063803F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6759569E-FB97-412A-8668-B4F9063803F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
