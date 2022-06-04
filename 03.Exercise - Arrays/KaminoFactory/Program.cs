@@ -46,7 +46,6 @@ namespace KaminoFactory
                     maxSequenceCount = sequenceCount;
                 }
 
-
                 if (maxSequenceCount > globalMaxSequenceCount
                     || (maxSequenceCount == globalMaxSequenceCount && maxSequenceStart < globalMaxSequenceStart)
                     || (maxSequenceCount == globalMaxSequenceCount && maxSequenceStart == globalMaxSequenceStart && sum > globalMaxSum))
