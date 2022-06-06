@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualNumbers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZadArrays", "ZigZadArrays\ZigZadArrays.csproj", "{6759569E-FB97-412A-8668-B4F9063803F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptSortAndPrintArray", "EncryptSortAndPrintArray\EncryptSortAndPrintArray.csproj", "{4247B208-4DFA-4586-A203-995946E877B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6759569E-FB97-412A-8668-B4F9063803F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6759569E-FB97-412A-8668-B4F9063803F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6759569E-FB97-412A-8668-B4F9063803F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4247B208-4DFA-4586-A203-995946E877B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4247B208-4DFA-4586-A203-995946E877B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4247B208-4DFA-4586-A203-995946E877B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4247B208-4DFA-4586-A203-995946E877B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
