@@ -1,31 +1,33 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32505.173
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Train", "Train\Train.csproj", "{CDBE1B97-4F85-4812-965D-5F370F34F173}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonElements", "CommonElements\CommonElements.csproj", "{4098E768-6787-4BFD-A77C-D64B174053F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopIntegers", "TopIntegers\TopIntegers.csproj", "{72F1EF38-6F81-4F28-9795-1F96DC506B53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopIntegers", "TopIntegers\TopIntegers.csproj", "{72F1EF38-6F81-4F28-9795-1F96DC506B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSums", "EqualSums\EqualSums.csproj", "{3CFB79BE-5436-4E2F-B643-F67BBBF799D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualSums", "EqualSums\EqualSums.csproj", "{3CFB79BE-5436-4E2F-B643-F67BBBF799D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaminoFactory", "KaminoFactory\KaminoFactory.csproj", "{3BBC284C-288C-474F-B870-611D933348A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaminoFactory", "KaminoFactory\KaminoFactory.csproj", "{3BBC284C-288C-474F-B870-611D933348A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicSum", "MagicSum\MagicSum.csproj", "{D6F44F7E-B390-4463-B084-890184B38213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicSum", "MagicSum\MagicSum.csproj", "{D6F44F7E-B390-4463-B084-890184B38213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualNumbers", "MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers.csproj", "{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSequenceOfEqualNumbers", "MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers.csproj", "{BCF9F5A3-B5C8-49ED-A01D-536BD9F4A1BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZadArrays", "ZigZadArrays\ZigZadArrays.csproj", "{6759569E-FB97-412A-8668-B4F9063803F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZigZadArrays", "ZigZadArrays\ZigZadArrays.csproj", "{6759569E-FB97-412A-8668-B4F9063803F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptSortAndPrintArray", "EncryptSortAndPrintArray\EncryptSortAndPrintArray.csproj", "{4247B208-4DFA-4586-A203-995946E877B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptSortAndPrintArray", "EncryptSortAndPrintArray\EncryptSortAndPrintArray.csproj", "{4247B208-4DFA-4586-A203-995946E877B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{C9CADDF3-988A-4716-AA1A-2527AA08EC59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{C9CADDF3-988A-4716-AA1A-2527AA08EC59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{1C1C568B-C806-40C4-AAE2-768CF7F86EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{1C1C568B-C806-40C4-AAE2-768CF7F86EF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{F753292A-8EE3-4A21-B2E6-C24530FF407C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{F753292A-8EE3-4A21-B2E6-C24530FF407C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldAndSum", "FoldAndSum\FoldAndSum.csproj", "{80E3990F-F201-4ED0-9772-48ECC3293684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{F753292A-8EE3-4A21-B2E6-C24530FF407C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F753292A-8EE3-4A21-B2E6-C24530FF407C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F753292A-8EE3-4A21-B2E6-C24530FF407C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E3990F-F201-4ED0-9772-48ECC3293684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E3990F-F201-4ED0-9772-48ECC3293684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E3990F-F201-4ED0-9772-48ECC3293684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E3990F-F201-4ED0-9772-48ECC3293684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
