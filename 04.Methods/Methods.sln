@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculations", "Calculation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{D9B66418-5D23-4EF0-962D-49FEB51719EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Ordes\Orders.csproj", "{61BDD66B-02CC-486A-9CF6-6B160FE854D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
