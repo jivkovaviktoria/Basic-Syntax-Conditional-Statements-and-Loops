@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notifications", "Notifications\Notifications.csproj", "{28F6C5CF-ECAF-4F74-BC95-1FD186A8CBF4}"
 EndProject
@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIgnOfIntegerNumbers", "SIg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grades", "Grades\Grades.csproj", "{070380C1-8AD5-4A00-B713-876963D2E563}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{68F80BF5-D54C-4D89-93A6-A7C657BFA534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculations", "Calculations\Calculations.csproj", "{68F80BF5-D54C-4D89-93A6-A7C657BFA534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{D9B66418-5D23-4EF0-962D-49FEB51719EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{68F80BF5-D54C-4D89-93A6-A7C657BFA534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68F80BF5-D54C-4D89-93A6-A7C657BFA534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68F80BF5-D54C-4D89-93A6-A7C657BFA534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B66418-5D23-4EF0-962D-49FEB51719EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
