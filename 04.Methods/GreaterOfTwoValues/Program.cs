@@ -11,43 +11,31 @@ namespace GreaterOfTwoValues
             {
                 int firstNumber = int.Parse(Console.ReadLine());
                 int secondNumber = int.Parse(Console.ReadLine());
-                GetGreater(firstNumber, secondNumber);
+                int greaterNumber = GetGreater(firstNumber, secondNumber);
+                Console.WriteLine(greaterNumber);
             }
             else if (type == "char")
             {
                 char firstChar = char.Parse(Console.ReadLine());
                 char secondChar = char.Parse(Console.ReadLine());
-                GetGreater(firstChar, secondChar);
+                char greaterChar = GetGreater(firstChar, secondChar);
+                Console.WriteLine(greaterChar);
             }
             else if (type == "string")
             {
                 string firstString = Console.ReadLine();
                 string secondString = Console.ReadLine();
-                GetGreater(firstString, secondString);
+                string greaterString = GetGreater(firstString, secondString);
+                Console.WriteLine(greaterString);
             }
         }
 
-        static int GetGreater(int firstNumber, int secondNumber)
+        static T GetGreater<T>(T firstValue, T secondValue)
+            where T : IComparable<T>
         {
-            return firstNumber > secondNumber ? firstNumber : secondNumber;
-        }
-
-        static char GetGreater(char firstChar, char secondChar)
-        {
-            return firstChar > secondChar ? firstChar : secondChar;
-        }
-
-        static string GetGreater(string firstString, string secondString)
-        {
-            int result = firstString.CompareTo(secondString);
-            if (result > 0)
-            {
-                return firstString;
-            }
-            else
-            {
-                return secondString;
-            }
+            var comparisonResult = firstValue.CompareTo(secondValue);
+            if (comparisonResult > 0) return firstValue;
+            return secondValue;
         }
     }
 }
