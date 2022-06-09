@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grades", "Grades\Grades.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculations", "Calculations\Calculations.csproj", "{68F80BF5-D54C-4D89-93A6-A7C657BFA534}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{D9B66418-5D23-4EF0-962D-49FEB51719EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{D9B66418-5D23-4EF0-962D-49FEB51719EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Ordes\Orders.csproj", "{61BDD66B-02CC-486A-9CF6-6B160FE854D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterOfTwoValues", "GreaterOfTwoValues\GreaterOfTwoValues.csproj", "{BE9B89F3-4CAD-4FA0-B6DA-6DC32E5D6CE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61BDD66B-02CC-486A-9CF6-6B160FE854D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9B89F3-4CAD-4FA0-B6DA-6DC32E5D6CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9B89F3-4CAD-4FA0-B6DA-6DC32E5D6CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9B89F3-4CAD-4FA0-B6DA-6DC32E5D6CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9B89F3-4CAD-4FA0-B6DA-6DC32E5D6CE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
