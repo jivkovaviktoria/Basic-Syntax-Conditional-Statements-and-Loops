@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallestOfThreeNumbers", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsCount", "VowelsCount\VowelsCount.csproj", "{7820111C-65CA-4619-9C92-A85106609D3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{381A015D-24A1-4B9A-96D4-7BA396243BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAndSubtract", "AddAndSubtrackt\AddAndSubtract.csproj", "{A59515E3-5280-4D3D-B782-5DF74839DEC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{7820111C-65CA-4619-9C92-A85106609D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7820111C-65CA-4619-9C92-A85106609D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7820111C-65CA-4619-9C92-A85106609D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381A015D-24A1-4B9A-96D4-7BA396243BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381A015D-24A1-4B9A-96D4-7BA396243BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381A015D-24A1-4B9A-96D4-7BA396243BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381A015D-24A1-4B9A-96D4-7BA396243BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59515E3-5280-4D3D-B782-5DF74839DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59515E3-5280-4D3D-B782-5DF74839DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59515E3-5280-4D3D-B782-5DF74839DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59515E3-5280-4D3D-B782-5DF74839DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
