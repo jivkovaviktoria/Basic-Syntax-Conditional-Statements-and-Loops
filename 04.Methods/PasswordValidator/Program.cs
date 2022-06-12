@@ -19,34 +19,46 @@ namespace PasswordValidator
                 Console.WriteLine("Password must be between 6 and 10 characters");
             }
 
-            bool isLetterOrDigit = true;
-            foreach (char c in pass)
+            bool isLetterOrDigit = ContainsOnlyValidCharacters(pass);
+            if (isLetterOrDigit == false)
             {
-                if (!char.IsLetter(c) && !char.IsDigit(c))
-                {
-                    isLetterOrDigit = false;
-                    isValid = false;
-                }
-            }
-            if (isLetterOrDigit==false)
+                isValid = false;
                 Console.WriteLine("Password must consist only of letters and digits");
+            }
 
+            bool containsEnoughDigits = ContainsAtLeastTwoDigits(pass);
+            if (containsEnoughDigits == false)
+            {
+                isValid = false;
+                Console.WriteLine("Password must have at least 2 digits");
+            }
+
+            if (isValid)
+            {
+                Console.WriteLine("Password is valid");
+            }
+        }
+
+        private static bool ContainsAtLeastTwoDigits(string pass)
+        {
             int counter = 0;
             foreach (char c in pass)
             {
                 if (char.IsDigit(c))
                     counter++;
             }
-            if (counter < 2)
-            {
-                isValid = false;
-                Console.WriteLine("Password must have at least 2 digits");
-            }
 
-            if (isValid == true)
+            return counter >= 2;
+        }
+
+        private static bool ContainsOnlyValidCharacters(string pass)
+        {
+            foreach (char c in pass)
             {
-                Console.WriteLine("Password is valid");
+                if (!char.IsLetter(c) && !char.IsDigit(c)) return false;
             }
+            
+            return true;
         }
     }
 }
