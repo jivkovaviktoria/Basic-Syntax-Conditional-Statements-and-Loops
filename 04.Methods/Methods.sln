@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32505.173
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notifications", "Notifications\Notifications.csproj", "{28F6C5CF-ECAF-4F74-BC95-1FD186A8CBF4}"
 EndProject
@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordValidator", "Passwo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddAndSubtract", "AddAndSubtrackt\AddAndSubtract.csproj", "{A59515E3-5280-4D3D-B782-5DF74839DEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleCharacters", "MiddleCharacters\MiddleCharacters.csproj", "{B9EC70F7-D4D8-4D61-8ABD-7E1FC393485A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleCharacters", "MiddleCharacters\MiddleCharacters.csproj", "{B9EC70F7-D4D8-4D61-8ABD-7E1FC393485A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxN-Matrix", "NxN-Matrix\NxN-Matrix.csproj", "{34BDB3BF-4F3D-4B91-B69F-1FE17CA28C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{B9EC70F7-D4D8-4D61-8ABD-7E1FC393485A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9EC70F7-D4D8-4D61-8ABD-7E1FC393485A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9EC70F7-D4D8-4D61-8ABD-7E1FC393485A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BDB3BF-4F3D-4B91-B69F-1FE17CA28C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BDB3BF-4F3D-4B91-B69F-1FE17CA28C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BDB3BF-4F3D-4B91-B69F-1FE17CA28C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BDB3BF-4F3D-4B91-B69F-1FE17CA28C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
