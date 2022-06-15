@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NxN-Matrix", "NxN-Matrix\Nx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopNumber", "TopNumber\TopNumber.csproj", "{C25EDA6B-981E-4A42-AB19-400570FEBBB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumbers", "PalindromeNumbers\PalindromeNumbers.csproj", "{EA64FEC0-1362-45E0-BA5B-45A6BC8EC46D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C25EDA6B-981E-4A42-AB19-400570FEBBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C25EDA6B-981E-4A42-AB19-400570FEBBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C25EDA6B-981E-4A42-AB19-400570FEBBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA64FEC0-1362-45E0-BA5B-45A6BC8EC46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA64FEC0-1362-45E0-BA5B-45A6BC8EC46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA64FEC0-1362-45E0-BA5B-45A6BC8EC46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA64FEC0-1362-45E0-BA5B-45A6BC8EC46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
