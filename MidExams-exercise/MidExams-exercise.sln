@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayModifier", "ArrayModif
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShootForTheWin", "ShootForTheWin\ShootForTheWin.csproj", "{ABE97C16-B79E-40FC-81D7-5558D753A241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuineaPig", "GuineaPig\GuineaPig.csproj", "{F5D5F1FE-2F5F-4D39-85FA-3EC8A59EA14C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuineaPig", "GuineaPig\GuineaPig.csproj", "{F5D5F1FE-2F5F-4D39-85FA-3EC8A59EA14C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLift", "TheLift\TheLift.csproj", "{8887E28D-8319-4E65-8A3D-0AD835E07D32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLift", "TheLift\TheLift.csproj", "{8887E28D-8319-4E65-8A3D-0AD835E07D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScoringSystem", "BonusScoringSystem\BonusScoringSystem.csproj", "{44D1E546-A598-472D-BC15-1341000F19D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8887E28D-8319-4E65-8A3D-0AD835E07D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8887E28D-8319-4E65-8A3D-0AD835E07D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8887E28D-8319-4E65-8A3D-0AD835E07D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D1E546-A598-472D-BC15-1341000F19D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D1E546-A598-472D-BC15-1341000F19D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D1E546-A598-472D-BC15-1341000F19D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D1E546-A598-472D-BC15-1341000F19D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
