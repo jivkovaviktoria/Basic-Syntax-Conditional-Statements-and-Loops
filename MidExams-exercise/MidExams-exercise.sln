@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{86824F8B-203A-4183-8891-F3C2BE3554E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingTarget", "MovingTarget\MovingTarget.csproj", "{F32914B3-2145-4A72-9D88-19AEAE1AAAED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{86824F8B-203A-4183-8891-F3C2BE3554E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86824F8B-203A-4183-8891-F3C2BE3554E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86824F8B-203A-4183-8891-F3C2BE3554E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
