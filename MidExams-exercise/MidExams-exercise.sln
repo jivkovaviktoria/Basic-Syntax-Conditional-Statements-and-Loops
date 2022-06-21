@@ -11,21 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuineaPig", "GuineaPig\Guin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLift", "TheLift\TheLift.csproj", "{8887E28D-8319-4E65-8A3D-0AD835E07D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScoringSystem", "BonusScoringSystem\BonusScoringSystem.csproj", "{44D1E546-A598-472D-BC15-1341000F19D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonusScoringSystem", "BonusScoringSystem\BonusScoringSystem.csproj", "{44D1E546-A598-472D-BC15-1341000F19D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuOnline", "MuOnline\MuOnline.csproj", "{5AB76AC6-1F80-456E-A0F4-FF072FB66892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuOnline", "MuOnline\MuOnline.csproj", "{5AB76AC6-1F80-456E-A0F4-FF072FB66892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{528B948D-95B1-4794-9F5A-8E3BB2A4BD16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{528B948D-95B1-4794-9F5A-8E3BB2A4BD16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{AB2CB94F-C085-4B85-897C-728F25A77D14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory", "Inventory\Inventory.csproj", "{AB2CB94F-C085-4B85-897C-728F25A77D14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{5B4A1DB3-5362-4CA8-A7A4-A915B5D140EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{5B4A1DB3-5362-4CA8-A7A4-A915B5D140EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{1BBF5407-075A-4DA0-B15B-3933E01EE05C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers", "Numbers\Numbers.csproj", "{1BBF5407-075A-4DA0-B15B-3933E01EE05C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{86824F8B-203A-4183-8891-F3C2BE3554E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{86824F8B-203A-4183-8891-F3C2BE3554E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingTarget", "MovingTarget\MovingTarget.csproj", "{F32914B3-2145-4A72-9D88-19AEAE1AAAED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingTarget", "MovingTarget\MovingTarget.csproj", "{F32914B3-2145-4A72-9D88-19AEAE1AAAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerStore", "ComputerStore\ComputerStore.csproj", "{9A0F1BC5-3DDF-40C6-91B9-F3B51811663A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32914B3-2145-4A72-9D88-19AEAE1AAAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0F1BC5-3DDF-40C6-91B9-F3B51811663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0F1BC5-3DDF-40C6-91B9-F3B51811663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0F1BC5-3DDF-40C6-91B9-F3B51811663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0F1BC5-3DDF-40C6-91B9-F3B51811663A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
