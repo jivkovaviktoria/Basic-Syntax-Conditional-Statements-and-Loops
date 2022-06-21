@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counter-strike", "Counter-s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackFlag", "BlackFlag\BlackFlag.csproj", "{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt.csproj", "{FE59C283-1F93-4473-B213-28FE8663B5A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE59C283-1F93-4473-B213-28FE8663B5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE59C283-1F93-4473-B213-28FE8663B5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE59C283-1F93-4473-B213-28FE8663B5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE59C283-1F93-4473-B213-28FE8663B5A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
