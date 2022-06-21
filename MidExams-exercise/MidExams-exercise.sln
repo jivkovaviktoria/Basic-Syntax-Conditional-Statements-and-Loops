@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerStore", "ComputerSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counter-strike", "Counter-strike\Counter-strike.csproj", "{6405100D-CC13-4222-BB59-D0AE7EA144F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackFlag", "BlackFlag\BlackFlag.csproj", "{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6405100D-CC13-4222-BB59-D0AE7EA144F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6405100D-CC13-4222-BB59-D0AE7EA144F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6405100D-CC13-4222-BB59-D0AE7EA144F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAED8AC-27BC-44E6-BD4F-96A31C156E04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
