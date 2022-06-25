@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsGame", "CardsGame\Card
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{B230C672-4E39-4B36-BDE1-16052B87F86E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonDon'tGo", "PokemonDon'tGo\PokemonDon'tGo.csproj", "{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{B230C672-4E39-4B36-BDE1-16052B87F86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B230C672-4E39-4B36-BDE1-16052B87F86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B230C672-4E39-4B36-BDE1-16052B87F86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
