@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizeWords", "RandomizeWords\RandomizeWords.csproj", "{39695E52-33A6-48EB-9B72-AAFB0D2118CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{CF01C4D1-14D0-4C86-9E77-FE0979917CEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{39695E52-33A6-48EB-9B72-AAFB0D2118CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39695E52-33A6-48EB-9B72-AAFB0D2118CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39695E52-33A6-48EB-9B72-AAFB0D2118CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF01C4D1-14D0-4C86-9E77-FE0979917CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF01C4D1-14D0-4C86-9E77-FE0979917CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF01C4D1-14D0-4C86-9E77-FE0979917CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF01C4D1-14D0-4C86-9E77-FE0979917CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
