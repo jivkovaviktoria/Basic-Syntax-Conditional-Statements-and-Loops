@@ -23,11 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOperations", "ListOpera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BombNumbers", "BombNumbers\BombNumbers.csproj", "{95DA8DE1-1302-405B-A12B-A5FBF6C728DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsGame", "CardsGame\CardsGame.csproj", "{46B53F2F-B879-49AD-BA8A-44C5E8AFD94B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardsGame", "CardsGame\CardsGame.csproj", "{46B53F2F-B879-49AD-BA8A-44C5E8AFD94B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{B230C672-4E39-4B36-BDE1-16052B87F86E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{B230C672-4E39-4B36-BDE1-16052B87F86E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonDon'tGo", "PokemonDon'tGo\PokemonDon'tGo.csproj", "{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonDon'tGo", "PokemonDon'tGo\PokemonDon'tGo.csproj", "{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CADC1333-72ED-41B0-A255-A33B2B8208D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "Messaging\Messaging.csproj", "{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3E1B4D5-C612-460A-9FBF-D80B1ABF0627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADC1333-72ED-41B0-A255-A33B2B8208D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADC1333-72ED-41B0-A255-A33B2B8208D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADC1333-72ED-41B0-A255-A33B2B8208D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADC1333-72ED-41B0-A255-A33B2B8208D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
