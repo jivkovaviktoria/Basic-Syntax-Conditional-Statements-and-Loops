@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonDon'tGo", "PokemonDo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CADC1333-72ED-41B0-A255-A33B2B8208D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "Messaging\Messaging.csproj", "{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messaging", "Messaging\Messaging.csproj", "{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRace", "CarRace\CarRace.csproj", "{D20D237D-98CD-423F-8933-CB53049B0DD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52EC15EF-AE81-4AE1-893A-5D15D1F4FFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20D237D-98CD-423F-8933-CB53049B0DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20D237D-98CD-423F-8933-CB53049B0DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20D237D-98CD-423F-8933-CB53049B0DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20D237D-98CD-423F-8933-CB53049B0DD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
