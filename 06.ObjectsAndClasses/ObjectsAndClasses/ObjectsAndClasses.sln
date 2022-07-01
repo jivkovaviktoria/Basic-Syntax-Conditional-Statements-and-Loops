@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue", "Vehicle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertisementMessage", "AdvertisementMessage\AdvertisementMessage.csproj", "{2822C2EE-3743-4639-9F7B-D81C43BDC9DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articles", "Articles\Articles.csproj", "{EC7B66A2-432D-4597-99DB-46426F1F4787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2822C2EE-3743-4639-9F7B-D81C43BDC9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2822C2EE-3743-4639-9F7B-D81C43BDC9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2822C2EE-3743-4639-9F7B-D81C43BDC9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7B66A2-432D-4597-99DB-46426F1F4787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7B66A2-432D-4597-99DB-46426F1F4787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7B66A2-432D-4597-99DB-46426F1F4787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7B66A2-432D-4597-99DB-46426F1F4787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
