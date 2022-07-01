@@ -19,15 +19,22 @@ namespace Articles
             {
                 string command = Console.ReadLine();
                 string[] lines = command.Split(": ");
-                if (lines[0]== "Rename")
+
+                if (lines[0] == "Rename")
+                {
                     article.Rename(lines[1]);
+                }
                 else if (lines[0] == "ChangeAuthor")
+                {
                     article.ChangeAuthor(lines[1]);
+                }
                 else if (lines[0] == "Edit")
+                {
                     article.Edit(lines[1]);
+                }
             }
 
-            Console.WriteLine($"{article.Title} {article.Content} {article.Author}");
+            Console.WriteLine($"{article.Title} - {article.Content}: {article.Author}");
         }
     }
 
