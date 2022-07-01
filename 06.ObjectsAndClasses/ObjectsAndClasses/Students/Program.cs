@@ -13,7 +13,7 @@ namespace Students
             {
                 string command = Console.ReadLine();
 
-                if (command == "End") break;
+                if (command == "end") break;
 
                 string[] studentProps = command.Split();
 
@@ -33,7 +33,7 @@ namespace Students
             foreach (Student student in students)
             {
                 if(student.HomeTown == cityName)
-                    Console.WriteLine($"{student.FirstName}{student.LastName} is {student.Age} years old.");
+                    Console.WriteLine($"{student.FirstName} {student.LastName} is {student.Age} years old.");
             }
 
         }
