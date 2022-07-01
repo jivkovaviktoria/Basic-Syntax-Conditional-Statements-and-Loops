@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Studen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBoxes", "StoreBoxes\StoreBoxes.csproj", "{4535CAC9-0D6E-4B83-A81F-95FF364537D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{BEE883FC-D9AA-43DF-8FAD-42402FDD6253}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4535CAC9-0D6E-4B83-A81F-95FF364537D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4535CAC9-0D6E-4B83-A81F-95FF364537D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4535CAC9-0D6E-4B83-A81F-95FF364537D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE883FC-D9AA-43DF-8FAD-42402FDD6253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE883FC-D9AA-43DF-8FAD-42402FDD6253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE883FC-D9AA-43DF-8FAD-42402FDD6253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE883FC-D9AA-43DF-8FAD-42402FDD6253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
