@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilter", "TextFilter\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsLettersAndOthers", "DigitsLettersAndOthers\DigitsLettersAndOthers.csproj", "{4ADC287A-838F-4DA3-B59B-06D7A9C8D12C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{0775B96E-BE2D-4DDE-8A98-F71416F9586A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4ADC287A-838F-4DA3-B59B-06D7A9C8D12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ADC287A-838F-4DA3-B59B-06D7A9C8D12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ADC287A-838F-4DA3-B59B-06D7A9C8D12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
