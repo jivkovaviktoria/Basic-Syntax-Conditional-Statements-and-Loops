@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsLettersAndOthers", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{0775B96E-BE2D-4DDE-8A98-F71416F9586A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMultiplier", "CharacterMultiplier\CharacterMultiplier.csproj", "{D56E678F-4E41-4C4C-9715-90BA4A2B7614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0775B96E-BE2D-4DDE-8A98-F71416F9586A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56E678F-4E41-4C4C-9715-90BA4A2B7614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56E678F-4E41-4C4C-9715-90BA4A2B7614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56E678F-4E41-4C4C-9715-90BA4A2B7614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56E678F-4E41-4C4C-9715-90BA4A2B7614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
