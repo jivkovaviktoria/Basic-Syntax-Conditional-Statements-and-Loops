@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchDates", "MatchDates\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race", "Race\Race.csproj", "{191FAEF7-5CCC-42C0-85BA-F1A8BD83FED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191FAEF7-5CCC-42C0-85BA-F1A8BD83FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191FAEF7-5CCC-42C0-85BA-F1A8BD83FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191FAEF7-5CCC-42C0-85BA-F1A8BD83FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191FAEF7-5CCC-42C0-85BA-F1A8BD83FED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
