@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{F37550E6-D898-4AD6-8A07-7219ABCBEFB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchDates", "MatchDates\MatchDates.csproj", "{A0566316-0079-4ABA-83B1-B9351845D957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F37550E6-D898-4AD6-8A07-7219ABCBEFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37550E6-D898-4AD6-8A07-7219ABCBEFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37550E6-D898-4AD6-8A07-7219ABCBEFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0566316-0079-4ABA-83B1-B9351845D957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0566316-0079-4ABA-83B1-B9351845D957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0566316-0079-4ABA-83B1-B9351845D957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0566316-0079-4ABA-83B1-B9351845D957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAA5677-B0C0-4C2D-9DFF-9C30F981C5FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
