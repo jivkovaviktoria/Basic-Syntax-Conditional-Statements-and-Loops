@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiDetector", "EmojiDetec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{A0C600FD-E375-4E2D-B58B-EF2D9135EBB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A0C600FD-E375-4E2D-B58B-EF2D9135EBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0C600FD-E375-4E2D-B58B-EF2D9135EBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0C600FD-E375-4E2D-B58B-EF2D9135EBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
