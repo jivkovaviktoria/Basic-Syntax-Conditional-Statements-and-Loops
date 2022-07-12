@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePianist", "ThePianist\ThePianist.csproj", "{8DF59E72-C1F4-40AB-B8AD-04C5EA45D67D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroesOfCodeAndLogicVII", "HeroesOfCodeAndLogicVII\HeroesOfCodeAndLogicVII.csproj", "{6F005279-9DCC-4898-A4DE-EE128B3BC889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{56FDD4D0-EB59-4390-92B4-400C92A2E5CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{56FDD4D0-EB59-4390-92B4-400C92A2E5CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{A0C600FD-E375-4E2D-B58B-EF2D9135EBB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{A0C600FD-E375-4E2D-B58B-EF2D9135EBB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
