@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinationMapper", "Destin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{C9DDB0B6-C187-4B3C-A9D9-504B8E0E2338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{5DBDDDAA-5639-4390-8530-AE2E3E23EA2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeedIII", "NeedForSpeedIII\NeedForSpeedIII.csproj", "{7D35D79F-5452-4012-9BBC-A0679233173E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeedIII", "NeedForSpeedIII\NeedForSpeedIII.csproj", "{7D35D79F-5452-4012-9BBC-A0679233173E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheImitationGame", "TheImitationGame\TheImitationGame.csproj", "{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7D35D79F-5452-4012-9BBC-A0679233173E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D35D79F-5452-4012-9BBC-A0679233173E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D35D79F-5452-4012-9BBC-A0679233173E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
