@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FancyBarcodes", "FancyBarco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeedIII", "NeedForSpeedIII\NeedForSpeedIII.csproj", "{7D35D79F-5452-4012-9BBC-A0679233173E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheImitationGame", "TheImitationGame\TheImitationGame.csproj", "{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheImitationGame", "TheImitationGame\TheImitationGame.csproj", "{5E15CCC2-EEE6-4BD1-B83E-73E485C56460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdAstra", "AdAstra\AdAstra.csproj", "{A4727C94-D270-4DB8-A5B4-34194025F941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdAstra", "AdAstra\AdAstra.csproj", "{A4727C94-D270-4DB8-A5B4-34194025F941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldTour", "WorldTour\WorldTour.csproj", "{1D401BB0-1093-415F-ABEB-F647A0BFC0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldTour", "WorldTour\WorldTour.csproj", "{1D401BB0-1093-415F-ABEB-F647A0BFC0DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{1A62CC02-C203-46F1-8C65-ECDA84F3D3FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{1A62CC02-C203-46F1-8C65-ECDA84F3D3FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretChat", "SecretChat\SecretChat.csproj", "{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecretChat", "SecretChat\SecretChat.csproj", "{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordReset", "PasswordReset\PasswordReset.csproj", "{38D30CB9-8814-4E06-82FB-F48551C2F0B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D30CB9-8814-4E06-82FB-F48551C2F0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D30CB9-8814-4E06-82FB-F48551C2F0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D30CB9-8814-4E06-82FB-F48551C2F0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D30CB9-8814-4E06-82FB-F48551C2F0B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
