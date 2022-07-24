@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldTour", "WorldTour\Worl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{1A62CC02-C203-46F1-8C65-ECDA84F3D3FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretChat", "SecretChat\SecretChat.csproj", "{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1A62CC02-C203-46F1-8C65-ECDA84F3D3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A62CC02-C203-46F1-8C65-ECDA84F3D3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A62CC02-C203-46F1-8C65-ECDA84F3D3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEBC1DE-EFE9-4224-8C4F-E3279293C41F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
