@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ThePianist_with_object_
 {
@@ -18,6 +20,7 @@ namespace ThePianist_with_object_
                 string key = tokens[2];
 
                 pieces.Add(piece, new Piece(composer, key));
+                order.Add(piece);
             }
 
             string input = Console.ReadLine();
@@ -49,7 +52,7 @@ namespace ThePianist_with_object_
                     }
                     else Console.WriteLine($"Invalid operation! {piece} does not exist in the collection.");
                 }
-                else if(command=="ChangeAll")
+                else if(command=="ChangeKey")
                 {
                     string newKey = tokens[2];
                     if(pieces.ContainsKey(piece))

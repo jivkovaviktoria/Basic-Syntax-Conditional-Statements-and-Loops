@@ -35,6 +35,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePianist(with-object)", "ThePianist(with-object)\ThePianist(with-object).csproj", "{A02329C9-CC11-420E-B035-C38CBF190325}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantDiscovery(with-object)", "PlantDiscovery(with-object)\PlantDiscovery(with-object).csproj", "{EF9269BB-BB42-45C1-9FB4-291761929154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesOfCodeAndLogicVII(with-object)", "HeroesOfCodeAndLogicVII(with-object)\HeroesOfCodeAndLogicVII(with-object).csproj", "{9C225B3F-9284-430B-815E-97CEC0D912A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{A02329C9-CC11-420E-B035-C38CBF190325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A02329C9-CC11-420E-B035-C38CBF190325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A02329C9-CC11-420E-B035-C38CBF190325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9269BB-BB42-45C1-9FB4-291761929154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9269BB-BB42-45C1-9FB4-291761929154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9269BB-BB42-45C1-9FB4-291761929154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9269BB-BB42-45C1-9FB4-291761929154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C225B3F-9284-430B-815E-97CEC0D912A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C225B3F-9284-430B-815E-97CEC0D912A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C225B3F-9284-430B-815E-97CEC0D912A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C225B3F-9284-430B-815E-97CEC0D912A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
