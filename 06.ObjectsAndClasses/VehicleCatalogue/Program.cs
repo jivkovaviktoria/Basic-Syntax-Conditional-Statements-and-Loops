@@ -8,88 +8,74 @@ namespace VehicleCatalogue
     {
         static void Main(string[] args)
         {
-            Catalogue catalogueVehicle = new Catalogue();
-
-            while (true)
+            string input = Console.ReadLine();
+            
+            while (input!="End")
             {
-                string input = Console.ReadLine();
-                if (input == "end") break;
-
-                string[] tokens = input.Split('/');
+                string[] tokens = input.Split();
                 string type = tokens[0];
-                string brand = tokens[1];
-                string model = tokens[2];
-                int parameter = int.Parse(tokens[3]);
+                string model = tokens[1];
+                string color = tokens[2];
+                int hp = int.Parse(tokens[3]);
 
-               
+                if(type == "Car")
+                {
+                    Car newCar = new Car(type, model, color, hp);
+                }
 
-                if (type == "Car")
-                {
-                    catalogueVehicle.Cars.Add(new Car
-                    {
-                        Brand = brand,
-                        Model = model,
-                        HP = parameter
-                    });
-                }
-                else if (type == "Truck")
-                {
-                    catalogueVehicle.Trucks.Add(new Truck
-                    {
-                        Brand = brand,
-                        Model = model,
-                        Weight = parameter
-                    });
-                }
+                input = Console.ReadLine();
             }
 
-            if (catalogueVehicle.Cars.Count > 0)
-            {
-                Console.WriteLine($"Cars:");
-                foreach (Car carList in catalogueVehicle.Cars.OrderBy(car => car.Brand))
-                {
-                    Console.WriteLine($"{carList.Brand}: {carList.Model} - {carList.HP}hp");
-                }
-            }
-
-            if (catalogueVehicle.Trucks.Count > 0)
-            {
-                Console.WriteLine($"Trucks:");
-                foreach (Truck truckList in catalogueVehicle.Trucks.OrderBy(truck => truck.Brand))
-                {
-                    Console.WriteLine($"{truckList.Brand}: {truckList.Model} - {truckList.Weight}kg");
-                }
-            }
         }
     }
 
     class Truck
     {
+        public Truck(string type, string model, string color, int hp)
+        {
+            Type = type;
+            Model = model;
+            Color = color;
+            HP = hp;
+        }
 
-        public string Brand { get; set; }
+        public string Type { get; set; }
 
         public string Model { get; set; }
 
-        public int Weight { get; set; }
+        public string Color { get; set; }
+
+        public int HP { get; set; }
     }
 
     class Car
     {
-        public string Brand { get; set; }
+        public Car(string type, string model, string color, int hp)
+        {
+            Type = type;
+            Model = model;
+            Color = color;
+            HP = hp;
+
+
+        }
+
+        public string Type { get; set; }
 
         public string Model { get; set; }
+
+        public string Color { get; set; }
 
         public int HP { get; set; }
     }
 
     class Catalogue
     {
-        public Catalogue()
-        {
-            Cars = new List<Car>();
-            Trucks = new List<Truck>();
-        }
         public List<Truck> Trucks { get; set; }
+
         public List<Car> Cars { get; set; }
+
+        public List<int> carsHP { get; set; }
+        public List<int> trucksHP { get; set; }
     }
 }
