@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderByAge", "OrderByAge\Or
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyRoster", "CompanyRoster\CompanyRoster.csproj", "{4FA43E38-9EBC-4466-AC52-ABC98872FC46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{C310D217-2058-4CA5-AA77-A1F56D9AF66E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4FA43E38-9EBC-4466-AC52-ABC98872FC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA43E38-9EBC-4466-AC52-ABC98872FC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA43E38-9EBC-4466-AC52-ABC98872FC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C310D217-2058-4CA5-AA77-A1F56D9AF66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C310D217-2058-4CA5-AA77-A1F56D9AF66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C310D217-2058-4CA5-AA77-A1F56D9AF66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C310D217-2058-4CA5-AA77-A1F56D9AF66E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
