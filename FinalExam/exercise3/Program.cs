@@ -10,23 +10,17 @@ namespace exercise3
     {
         static void Main(string[] args)
         {
-            //var pattern = @"([@|#]+)(?<egg>[a-z]{3,})([@|#]+)([^A-Za-z0-9]*)(\/+)(?<amount>[0-9]+)(\/+)";
-            //string input = Console.ReadLine();
+            var pattern = @"([@|#]+)(?<egg>[a-z]{3,})([@|#]+)([^A-Za-z0-9]*)(\/+)(?<amount>[0-9]+)(\/+)";
+            string input = Console.ReadLine();
 
-            //MatchCollection eggsFound = Regex.Matches(input, pattern);
+            MatchCollection eggsFound = Regex.Matches(input, pattern);
 
-            //foreach (Match item in eggsFound)
-            //{
-            //    var color = item.Groups["egg"];
-            //    var count = item.Groups["amount"];
-            //    Console.WriteLine($"You found {count} {color} eggs!");
-            //}]
-
-            int a = 5;
-            int b = a++;
-            int c = ++a;
-            Console.WriteLine(c);
-
+            foreach (Match item in eggsFound)
+            {
+                var color = item.Groups["egg"];
+                var count = item.Groups["amount"];
+                Console.WriteLine($"You found {count} {color} eggs!");
+            }
         }
     }
 }

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise1", "exercise1\exercise1.csproj", "{492815E7-2D5D-4D5D-9414-64831FC61BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulator", "exercise1\StringManipulator.csproj", "{492815E7-2D5D-4D5D-9414-64831FC61BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise2", "exercise2\exercise2.csproj", "{B20EF9AB-E6B3-4776-8F33-4BEE129FEF2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegustationParty", "exercise2\DegustationParty.csproj", "{B20EF9AB-E6B3-4776-8F33-4BEE129FEF2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise3", "exercise3\exercise3.csproj", "{FC5E879E-9769-4E43-8AEC-356BACCC72A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasterEggs", "exercise3\EasterEggs.csproj", "{FC5E879E-9769-4E43-8AEC-356BACCC72A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
